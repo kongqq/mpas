@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://192.168.2.20:8080/pamm/pamm.ipa</string>
+     <string>http://192.168.2.20:8080/pamm/%E4%BA%9A%E8%81%94%E7%BB%A9%E6%95%88.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
