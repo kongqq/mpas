@@ -38,10 +38,10 @@
    <dict>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>com.lqbank.pamm</string>
+    <string>com.lqrcb.pamm</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
-    <string>5.3.2</string>
+    <string>1.0.1</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
